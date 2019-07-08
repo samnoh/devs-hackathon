@@ -1,6 +1,6 @@
 # DEVS 48-Hour Hackathon 2019
 
--   05.07.19 to 07.07.19
+-   05/07 - 07/07
 -   [DEVS 48-Hour Hackathon 2019](https://www.facebook.com/events/485201575640171/)
 
 ## Team
@@ -29,8 +29,8 @@
 ### Intro
 
 -   IoT for elderly people
-    -   Motion sensors, thermal sensors and camera
--   Subscription business model
+    -   Motion sensors, thermal sensors and cameras
+-   Subscription business models
 
 ### Prototype Screenshots
 
