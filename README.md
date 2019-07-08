@@ -18,13 +18,21 @@
 
 ## Project
 
+![MOMI Logo](img/momi_logo.jpg)
+
 ### Name
 
 -   MOMI
     -   Looking After Your Loved Ones
+    -   A 21st Century Mother
 
 ### Intro
 
 -   IoT for elderly people
     -   Motion sensors, thermal sensors and camera
 -   Subscription business model
+
+### Prototype Screenshots
+
+![Dashboard Page](img/dashboard.jpg)
+![Activity Analysis Page](img/activity.jpg)
