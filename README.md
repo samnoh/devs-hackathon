@@ -35,4 +35,5 @@
 ### Prototype Screenshots
 
 ![Dashboard Page](img/dashboard.jpg)
+<img src="/img/dashboard.jpg"  width="300">
 ![Activity Analysis Page](img/activity.jpg)
