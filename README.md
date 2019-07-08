@@ -34,5 +34,5 @@
 
 ### Prototype Screenshots
 
-<img src="/img/dashboard.jpg"  width="300" alt="Dashboard Page">
+<img src="/img/dashboard.jpg" width="300" alt="Dashboard Page">
 <img src="/img/activity.jpg" width="300" alt="Activity Analysis Page">
