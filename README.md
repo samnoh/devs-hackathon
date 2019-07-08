@@ -18,7 +18,7 @@
 
 ## Project
 
-![MOMI Logo](img/momi_logo.jpg)
+<img src="/img/momi_logo.jpg" width="300" alt="MOMI Logo">
 
 ### Name
 
@@ -34,6 +34,5 @@
 
 ### Prototype Screenshots
 
-![Dashboard Page](img/dashboard.jpg)
-<img src="/img/dashboard.jpg"  width="300">
-![Activity Analysis Page](img/activity.jpg)
+<img src="/img/dashboard.jpg"  width="300" alt="Dashboard Page">
+<img src="/img/activity.jpg" width="300" alt="Activity Analysis Page">
